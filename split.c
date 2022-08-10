@@ -81,7 +81,7 @@ void add_nodes(sep_list **head_s, line_list **head_l, char *input)
 
 /**
  * go_next - go to the next command line stored
- *
+ * next command is in list
  * @list_s: separator list
  * @list_l: command line list
  * @datash: data structure
