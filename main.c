@@ -2,7 +2,7 @@
 
 /**
  * free_data - frees data structure
- *
+ * this acts as main feature of the shell
  * @datash: data structure
  * Return: no return
  */
