@@ -41,6 +41,7 @@ char *_getenv(const char *name, char **_environ)
 	mov = 0;
 	/* Compare all environment variables */
 	/* environ is declared in the header file */
+	/* this is comment */
 	for (i = 0; _environ[i]; i++)
 	{
 		/* If name and env are equal */
@@ -56,7 +57,7 @@ char *_getenv(const char *name, char **_environ)
 }
 
 /**
- * _env - prints the evironment variables
+ * _env - prints the evironment variables defined in the func
  *
  * @datash: data relevant.
  * Return: 1 on success.
