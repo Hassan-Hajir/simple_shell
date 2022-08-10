@@ -2,6 +2,7 @@
 
 /**
  * get_help - function that retrieves help messages according builtin
+ * it works like builtin helper
  * @datash: data structure (args and input)
  * Return: Return 0
 */
