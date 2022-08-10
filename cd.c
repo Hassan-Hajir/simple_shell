@@ -2,7 +2,7 @@
 
 /**
  * cd_dot - changes to the parent directory
- *
+ * almighty cd is on the way
  * @datash: data relevant (environ)
  *
  * Return: no return
